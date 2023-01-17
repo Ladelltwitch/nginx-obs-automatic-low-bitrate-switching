@@ -82,4 +82,4 @@ noalbs:
     retrySuccess: 成功試置重試嘗試次數為 %{count} 次
 scene:
     success: 正在切換到 %{scene}
-    error: 沒有找到場景名稱為 %{scene} 的廠景
+    error: 沒有找到場景名稱為 %{scene} 的場景
